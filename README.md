@@ -69,3 +69,30 @@ and scatter plots to cluster cryptocurrencies and visualize them. The end result
 ## Links to images
 
 Preprocessing data for pca: [crypto_preprocessing_data_for_pca.png](https://github.com/bariir/Cryptocurrencies/tree/main/Resources/crypto_preprocessing_data_for_pca.png?raw=true)<br>
+
+Trading Crypto Only: [crypto_trading_only.png](https://github.com/bariir/Cryptocurrencies/tree/main/Resources/crypto_trading_only.png?raw=true)<br>
+
+Working crypto algorithm: [crypto_working_algorithm.png](https://github.com/bariir/Cryptocurrencies/tree/main/Resources/crypto_working_algorithm.png?raw=true)<br>
+
+Identifying null values to remove: [crypto_identify_column_null_values_to_remove.png](https://github.com/bariir/Cryptocurrencies/tree/main/Resources/crypto_identify_column_null_values_to_remove.png?raw=true)<br>
+
+Keep rows coins mined: [crypto_keep_rows_coins_mined.png](https://github.com/bariir/Cryptocurrencies/tree/main/Resources/crypto_keep_rows_coins_mined.png?raw=true)<br>
+
+Create variables for text features: [crypto_create_variables_for_text_features.png](https://github.com/bariir/Cryptocurrencies/tree/main/Resources/crypto_create_variables_for_text_features.png?raw=true)<br>
+
+Use pca to reduce dimensions: [crypto_use_pca_to_reduce_dimensions.png](https://github.com/bariir/Cryptocurrencies/tree/main/Resources/crypto_use_pca_to_reduce_dimensions.png?raw=true)<br>
+
+Create principal components: [crypto_creating_principal_components.png](https://github.com/bariir/Cryptocurrencies/tree/main/Resources/crypto_creating_principal_components.png?raw=true)<br>
+
+Find best value for k: [crypto_find_best_value_for_k.png](https://github.com/bariir/Cryptocurrencies/tree/main/Resources/crypto_find_best_value_for_k.png?raw=true)<br>
+
+Initializing K Means: [crypto_initialize_k_means.png](https://github.com/bariir/Cryptocurrencies/tree/main/Resources/crypto_initialize_k_means.png?raw=true)<br>
+
+Create 3D scatter with pca: [crypto_create_3d_scatter_with_pca.png](https://github.com/bariir/Cryptocurrencies/tree/main/Resources/crypto_create_3d_scatter_with_pca.png?raw=true)<br>
+
+Create tradable table: [crypto_create_tradable_table.png](https://github.com/bariir/Cryptocurrencies/tree/main/Resources/crypto_create_tradable_table.png?raw=true)<br>
+
+Create hvplot scatter: [crypto_create_hvplot_scatter.png](https://github.com/bariir/Cryptocurrencies/tree/main/Resources/crypto_create_hvplot_scatter.png?raw=true)<br>
+
+
+
