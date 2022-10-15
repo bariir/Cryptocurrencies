@@ -57,3 +57,15 @@ Since there is no known output, Martha decides to use clustering algorithm to gr
 
 - Create hvplot scatter<br>
 ![Create hvplot scatter](/Resources/crypto_create_hvplot_scatter.png)<br>
+
+
+# Summary
+
+The analaysis done by Martha and her colleague for Accountability Accounting find there are lots of trading cryptocurrencies on the market that could be grouped into different clusters and create
+classification model that will enable the investment bank to offer these new assets to its clients. Martha and her colleague deploy unsupervised machine learning models that uses K-Means and principal component analysis
+and scatter plots to cluster cryptocurrencies and visualize them. The end result will enable the decision making of Accountability Accounting investment bank to either invest or not.
+
+
+## Links to images
+
+Preprocessing data for pca: [crypto_preprocessing_data_for_pca.png](https://github.com/bariir/Cryptocurrencies/tree/main/Resources/crypto_preprocessing_data_for_pca.png?raw=true)<br>
